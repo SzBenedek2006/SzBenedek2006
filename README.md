@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi! I will write stuff here later.
+## Bye!
 
 <!--
 **SzBenedek2006/SzBenedek2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
