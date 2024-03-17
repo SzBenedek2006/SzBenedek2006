@@ -1,4 +1,5 @@
 # Hi! I will write stuff here later.
+![Benedek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SzBenedek2006&layout=compact&theme=dark&hide_border=true)
 ## Bye! (⁠◠⁠‿⁠◕⁠)
 
 <!--
