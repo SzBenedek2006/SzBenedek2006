@@ -14,7 +14,7 @@ Why? That's why. The _why_ is always more interesting than the _what_.
 - Random stuff, that I won't even try to explain.
 
 ## Why am I doing this?
-I was always interested in computers. First in phones and tablets, then PCs and now IoT and servers too. But I always found them so restrictive and limiting. I hated when an important feature is missing or got removed for "security reasons"... Then I learnd that I have a different choice. Everyone can make a change in this world, including me, so I started learning programming.
+I was always interested in computers. First in phones and tablets, then PCs and now IoT and servers too. But I always found them so restrictive and limiting. I hated when an important feature is missing or got removed for "security reasons"... Then learned that I have a different choice. Everyone can make a change in this world, including me, so I started learning programming.
 
 Started with python then bored by it's simple sintax, hiding the real complexity. After about a year has passed, I started again, this time with C, in the spring of 2023. It was school time, so I just progressed slowly with the basics. Writing a few "Hello world" programs with a few experiments with escape sequences here and there. You can see, I really liked the possibilities of the Linux terminal's CLI.
 
