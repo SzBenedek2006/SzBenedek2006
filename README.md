@@ -18,7 +18,7 @@ I was always interested in computers. First in phones and tablets, then PCs and 
 
 Started with python then got bored by it's simple sintax, hiding the real complexity. After about a year has passed, I started again, this time with C, in the spring of 2023. It was school time, so I just progressed slowly with the basics. Writing a few "Hello world" programs with a few experiments with escape sequences here and there. You can see, I really liked the possibilities of the Linux terminal's CLI.
 
-I started taking C seriously in that year's summer break. I learned a lot more about the language and about computers in general. But you can imagine, after I found high level languages, like Python boring and complex, I didn't just stop with C.
+I started taking C seriously in that year's summer break. I learned a lot more about the language and about computers in general. But as you can imagine, after I found high level languages, like Python boring and simple on the surface (hiding it's complexity), I didn't just stop with C.
 
 I started learning x86 assembly from a book _(yes, the 32 bit variant)_. Learning it in 2023 wasn't useless though. In assembly land it is important to start with a bit of history. How today's modern systems are built, can be broken down to how they were built in the earlier days.
 
